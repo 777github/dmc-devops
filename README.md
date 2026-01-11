@@ -1,11 +1,5 @@
 # dmc-devops
 
-## Repositorio de Práctica DevOps
+### README.md profesional que describa el proyecto (error 1 de 2 de lint)
 
-Este repositorio contiene ejercicios para el curso de DevOps.
-
-- Contribución realizada a través de un pull request
-
-ACTUALIZACION URGENTE: Todos los sistemas operativos.
-
-Esta es una corrección para el bug DG-13
+Este es el producto académico para poder certificar la funcionalidad de nuevo GitHubActions agregado de plantilla *NewWorkflow > Pages > SimplePage * (error 2 de 2 de lint) y también el uso de lint en el simple-workflow.yml
